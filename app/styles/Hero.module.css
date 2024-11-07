@@ -3,8 +3,6 @@
   height: 308px;
   padding-top: 159px;
   padding-left: 231px;
-  gap: 0px;
-  opacity: 0px;
   padding-bottom: 131px;
   /* display: flex; */
 }
@@ -28,8 +26,7 @@
   height: 66px;
   /* top: 402px;
 left: 231px; */
-  gap: 0px;
-  opacity: 0px;
+
   /* font-family: Heebo; */
   font-size: 16px;
   font-weight: 400;
@@ -45,8 +42,7 @@ left: 231px; */
   height: 297px;
   top: 257px;
   left: 963px;
-  gap: 0px;
-  opacity: 0px;
+
   background: #aa9f9f4f;
   border-radius: 50%;
 }
@@ -59,6 +55,5 @@ left: 231px; */
   height: 299px;
   top: 246px;
   left: 969px;
-  gap: 0px;
-  opacity: 0px;
+
 }

@@ -35,8 +35,7 @@ export default function PostSecCard(props: postCardType) {
               height: "129.7px",
               top: "194.3px",
               marginLeft: "35px",
-              gap: "0px",
-              opacity: "0px",
+           
               // fontFamily: "Heebo",
               fontSize: "16px",
               fontWeight: "400",
@@ -74,8 +73,7 @@ export default function PostSecCard(props: postCardType) {
               height: "129.7px",
               top: "194.3px",
               marginLeft: "35px",
-              gap: "0px",
-              opacity: "0px",
+            
               // fontFamily: "Heebo",
               fontSize: "16px",
               fontWeight: "400",

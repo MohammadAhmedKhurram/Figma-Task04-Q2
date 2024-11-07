@@ -2,8 +2,7 @@
   width: 1440;
   height: 502px;
   /* padding-top: 665px; */
-  gap: 0px;
-  opacity: 0px;
+
   background-color: #f4e2e2;
   /* display: flex; */
   padding-top: 0px;
@@ -14,8 +13,7 @@
   height: 32px;
   /* padding-top: 26px; */
   padding-left: 237px;
-  gap: 0px;
-  opacity: 0px;
+
   /* font-family: Heebo; */
   font-size: 22px;
   font-weight: 500;
@@ -27,8 +25,7 @@
   height: 32px;
   /* top: 26px; */
   padding-left:809px;
-  gap: 0px;
-  opacity: 0px;
+
   /* font-family: Heebo; */
   font-size: 22px;
   font-weight: 500;
@@ -42,8 +39,7 @@
   height: 356px;
   top: 78px;
   margin-left: 763px;
-  gap: 0px;
-  opacity: 0px;
+
   background-color: #ffffff;
 }
 .card1 {
@@ -51,8 +47,7 @@
   width: 483px;
   height: 356px;
   margin-left: 237px;
-  gap: 0px;
-  opacity: 0px;
+
   background-color: #ffffff;
 }
 .p {
@@ -60,8 +55,7 @@
   /* height: 107.53px; */
   margin-top: 38px;
   margin-left: 35px;
-  gap: 0px;
-  opacity: 0px;
+
   margin-bottom: "0px";
   padding-bottom: "0px";
 
