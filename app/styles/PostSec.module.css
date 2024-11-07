@@ -1,0 +1,74 @@
+.container {
+  width: 1440;
+  height: 502px;
+  /* padding-top: 665px; */
+  gap: 0px;
+  opacity: 0px;
+  background-color: #f4e2e2;
+  /* display: flex; */
+  padding-top: 0px;
+  margin-top: 0px;
+}
+.p1 {
+  width: 120px;
+  height: 32px;
+  /* padding-top: 26px; */
+  padding-left: 237px;
+  gap: 0px;
+  opacity: 0px;
+  /* font-family: Heebo; */
+  font-size: 22px;
+  font-weight: 500;
+  line-height: 32.31px;
+  text-align: left;
+}
+.p2 {
+  width: 77px;
+  height: 32px;
+  /* top: 26px; */
+  padding-left:809px;
+  gap: 0px;
+  opacity: 0px;
+  /* font-family: Heebo; */
+  font-size: 22px;
+  font-weight: 500;
+  line-height: 32.31px;
+  text-align: left;
+  color: #F98585;
+
+}
+.card2 {
+  width: 483px;
+  height: 356px;
+  top: 78px;
+  margin-left: 763px;
+  gap: 0px;
+  opacity: 0px;
+  background-color: #ffffff;
+}
+.card1 {
+  position: absolute;
+  width: 483px;
+  height: 356px;
+  margin-left: 237px;
+  gap: 0px;
+  opacity: 0px;
+  background-color: #ffffff;
+}
+.p {
+  width: 383.56px;
+  /* height: 107.53px; */
+  margin-top: 38px;
+  margin-left: 35px;
+  gap: 0px;
+  opacity: 0px;
+  margin-bottom: "0px";
+  padding-bottom: "0px";
+
+  /* font-family: Heebo; */
+  font-size: 26px;
+  font-weight: 700;
+  line-height: 38px;
+  letter-spacing: 0.02em;
+  text-align: left;
+}

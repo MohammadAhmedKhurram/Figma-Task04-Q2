@@ -1,0 +1,3 @@
+type FeatureCardType = {
+    image: string
+}

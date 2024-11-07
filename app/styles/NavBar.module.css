@@ -1,0 +1,72 @@
+.div {
+  width: 1440px;
+  height: 67px;
+  top: -2px;
+  gap: 0px;
+  border: 1px 0px 0px 0px;
+  opacity: 0px;
+  background-color: #FAF5F5;
+}
+.ul {
+  list-style-type: none;
+  display: flex;
+  padding-top: 0%;
+  margin-top: 0%;
+  background-color: #FAF5F5;
+  border: 3px solid  #FAF5F5;
+  /* padding-left: 1088px;
+  justify-content:space-between; */
+  /* width: 283px;
+  height: 24px;
+  top: 66px;
+  left: 1088px;
+  gap: 0px;
+  opacity: 0px; */
+  color: black;
+}
+.works {
+  position: absolute;
+  width: 61px;
+  height: 24px;
+  top: 66px;
+  left: 1088px;
+  gap: 0px;
+  opacity: 0px;
+  /* font-family: Inter; */
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 24.2px;
+  text-align: left;
+  
+}
+.blog {
+  position: absolute;
+  width: 43px;
+  height: 24px;
+  top: 66px;
+  left: 1201px;
+  gap: 0px;
+  opacity: 0px;
+  /* font-family: Inter; */
+font-size: 20px;
+font-weight: 500;
+line-height: 24.2px;
+text-align: left;
+
+
+}
+.contact {
+  position: absolute;
+  width: 77px;
+  height: 24px;
+  top: 66px;
+  left: 1294px;
+  gap: 0px;
+  opacity: 0px;
+  /* font-family: Inter; */
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 24.2px;
+  text-align: left;
+  
+}
